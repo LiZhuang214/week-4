@@ -33,9 +33,10 @@ conda activate musa
 - [hvplot User Guide](https://hvplot.pyviz.org/user_guide/index.html)
 - [Socrata API](https://dev.socrata.com/consumers/getting-started.html)
 
-## Documentation
+## References
 
 - [pyViz tutorial](http://pyviz.org/tutorial/index.html): introduction to the pyViz ecosystem
 - [HoloViews user guide](http://holoviews.org/user_guide/index.html) and [gallery](http://holoviews.org/gallery/index.html)
 - [GeoViews user guide](http://geoviews.org/user_guide/index.html) and [gallery](http://geoviews.org/gallery/index.html)
 - [SQL documentation for CARTO](https://www.postgresql.org/docs/9.1/sql.html)
+- [GeoServices](http://geoservices.github.io/)
