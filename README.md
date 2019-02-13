@@ -40,3 +40,4 @@ conda activate musa
 - [GeoViews user guide](http://geoviews.org/user_guide/index.html) and [gallery](http://geoviews.org/gallery/index.html)
 - [SQL documentation for CARTO](https://www.postgresql.org/docs/9.1/sql.html)
 - [GeoServices](http://geoservices.github.io/)
+- [String formatting for DateTime objects](http://strftime.org/)
